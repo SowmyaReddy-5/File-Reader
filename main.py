@@ -6,6 +6,6 @@ data = {"name": ["jack", "jerry"], "Id": [1, 2]}
 df = pd.DataFrame(data)
 print(df)
 
-if __name__ == main():
-    print("hi")
-
+# if __name__ == main:
+#     print("hi")
+#
